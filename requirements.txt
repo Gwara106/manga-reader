@@ -1,0 +1,12 @@
+openai
+httpx
+Pillow
+PyMuPDF
+moviepy
+kokoro>=0.9.4
+soundfile
+wheel
+python-dotenv
+torch
+opencv-python
+scikit-image
